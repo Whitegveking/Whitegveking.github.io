@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a website for the study of algorithm theory"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
